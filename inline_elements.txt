@@ -1,0 +1,110 @@
+<!--Additional Inline Elements
+
+The following is a list of additional inline elements you may use.
+
+Element
+
+Purpose
+
+Notes
+
+<b>
+
+A span of text styled using bold font
+
+Deprecated
+
+<big>
+
+Makes the font size one size bigger than the surrounding text.
+
+Deprecated
+
+<i>
+
+A span of text styled using italic font
+
+Deprecated
+
+<small>
+
+Makes font size one size smaller than surrounding text. In HTML5, this tag was repurposed to represent small print for things like copyright and legal print.
+
+<abbr>
+
+Represents an abbreviation and optionally provides a full description. Must use the title attribute with this element to provide the full description.
+
+<acronym>
+
+Represents and acronym or abbreviation. Replaced in HTML5 with the <abbr> element.
+
+Deprecated
+
+<cite>
+
+Used for indicating citations to any creative work.
+
+<code>
+
+Used to display a fragment of computer code.
+
+<dfn>
+
+Represents the defining instance of a term.
+
+<em>
+
+Used to specify emphasis of text, default display of text surrounded by <em> is italic, but can be modified using CSS styling.
+
+<strong>
+
+Indicates importance of the text it surrounds. Default display of contained text is bold.
+
+<a>
+
+Anchor element used to define a hyperlink to a location within the same page or to an external resource.
+
+<br>
+
+Line break element.
+
+<img>
+
+Image element specifies all information needed to load an image in the page.
+
+<script>
+
+Used to embed or reference executable script within the HTML document.
+
+<span>
+
+Generic inline grouping container element.
+
+<sub>
+
+Subscript element representing text intended to display as lower and smaller than neighboring text.
+
+<sup>
+
+Superscript element representing text intended to display as higher and smaller than neighboring text.
+
+<button>
+
+Represents a clickable button displayed on the page.
+
+<input>
+
+Used to create interactive controls to collect input from a user. Generally associated with a form element.
+
+<label>
+
+Used to create a caption for an item in the user interface such as an input element.
+
+<select>
+
+Represents an input type control that presents the user with a series of options to choose from.
+
+<textarea>
+
+Represents a multi-line free text based input control.
+-->
