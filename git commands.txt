@@ -1,3 +1,11 @@
+open git-bash
+go to correct git directory on local
+create file 
+git init
+git commit -m "first commit"
+git push -u origin master
+
+
 
 …or create a new repository on the command line
 echo "# swg-web-course" >> README.md
