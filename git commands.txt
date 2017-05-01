@@ -2,6 +2,7 @@ open git-bash
 go to correct git directory on local
 create file 
 git init
+git add --all
 git commit -m "first commit"
 git push -u origin master
 
